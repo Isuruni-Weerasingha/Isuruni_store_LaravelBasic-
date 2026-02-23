@@ -28,7 +28,7 @@ laravel-product-module/
 └── routes/
 |   └── web.php                         ← Route definitions
 ├── videos/
-   └── AddProduct_ProductList_Record.mp4
+   └── Amila Store.mp4
 ```
 
 
