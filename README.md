@@ -26,10 +26,11 @@ laravel-product-module/
 │       └── create.blade.php            ← Add product form
 │
 └── routes/
-    └── web.php                         ← Route definitions
+|   └── web.php                         ← Route definitions
+├── videos/
+   └── AddProduct_ProductList_Record.mp4
 ```
 
----
 
 ## Setup Instructions
 
