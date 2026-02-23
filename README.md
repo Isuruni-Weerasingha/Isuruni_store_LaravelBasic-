@@ -116,3 +116,8 @@ http://localhost:8000
 - **Database:** MySQL
 - **Templating:** Blade
 - **UI:** Vanilla CSS (no external framework needed)
+## Demo Video
+
+See the screen recording of Add Product and Product List:
+
+[Video Link](videos/AddProduct_ProductList_Record.mp4)
