@@ -120,4 +120,5 @@ http://localhost:8000
 
 See the screen recording of Add Product and Product List:
 
-[Video Link](videos/AddProduct_ProductList_Record.mp4)
+[Video Link]([videos/AddProduct_ProductList_Record.mp4](https://drive.google.com/file/d/1JjhgbF46TJCqmPjz5LOMfZOXQs5zsboz/view?usp=sharing)
+
